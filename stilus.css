@@ -2,6 +2,7 @@
 
 * {
     color: #333;
+    /* border: 1px solid blue; */
 } 
 
 html {
@@ -39,5 +40,7 @@ h1, h3 {
     padding-left: 30px;
 }
 
-#elso {color: green;}
-#mas {color: red;}
+img {
+    width: 120px;
+    float: right;
+}
